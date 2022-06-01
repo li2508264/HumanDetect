@@ -8,7 +8,7 @@
 在晶晨S905D3和A311D NPU上测试速度均快于2ms
 
 
-TF1.31  和TF2.0均可运行 train.py训练代码
+TF1.13  和TF2.0均可运行 train.py训练代码
 ```bash
 python3 tflite_infer.py
 ```
