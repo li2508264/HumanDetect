@@ -12,7 +12,7 @@ TF1.13  和TF2.0均可运行 train.py训练代码
 ```bash
 python3 tflite_infer.py
 ```
-
+示例见下图
 
 ## screenshot
 ![](example.png)
